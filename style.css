@@ -158,4 +158,38 @@ footer {
   .hero-img {
     margin-top: 20px;
   }
-}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .hero {
+    padding: 40px 5%;
+  }
+
+  .hero-text h1 {
+    font-size: 1.8rem;
+  }
+
+  .hero-text p {
+    font-size: 1rem;
+  }
+
+  .hero-img img {
+    width: 180px;
+  }
+
+  section {
+    padding: 40px 5%;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  .skill {
+    padding: 8px 15px;
+    font-size: 0.9rem;
+  }
+
+  .project-card {
+    padding: 15px;
+  }
