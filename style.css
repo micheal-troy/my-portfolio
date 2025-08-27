@@ -70,12 +70,12 @@ body {
 
 .btn-outline {
   border: 2px solid white;
-  color: white;
+  color: #333;
 }
 
 .btn-outline:hover {
-  background: white;
-  color: #333;
+  background: #ffdd57;
+  color: #000;
 }
 
 /* Section Styles */
@@ -194,4 +194,5 @@ footer {
     padding: 15px;
   }
 }
+
 
